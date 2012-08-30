@@ -2,7 +2,7 @@
 ## Title: ElvUI Transparent Movers
 ## Notes: Changes movers so that they are transparent.
 ## Author: Dandruff @ US-Whisperwind
-## Version: 1.0.0
+## Version: 1.0.1
 ## RequiredDeps: ElvUI
 
 ElvUI_TransparentMovers.lua
