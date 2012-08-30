@@ -8,7 +8,10 @@ local old = E.CreateMover
 
 -- Install
 if not E.db.movers then
-  E.db.movers = { alpha = 1 }
+  E.db.movers = { }
+end
+if not E.db.movers.alpha then
+  E.db.movers.alpha
 end
 
 E.CreateMover = function(e, p, ...)
