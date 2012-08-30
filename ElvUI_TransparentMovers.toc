@@ -1,0 +1,8 @@
+## Interface: 50001
+## Title: ElvUI Transparent Movers
+## Notes: Changes movers so that they are transparent.
+## Author: Dandruff @ US-Whisperwind
+## Version: 1.0.0
+## RequiredDeps: ElvUI
+
+ElvUI_TransparentMovers.lua
