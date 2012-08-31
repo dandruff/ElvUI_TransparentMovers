@@ -11,7 +11,7 @@ if not E.db.movers then
   E.db.movers = { }
 end
 if not E.db.movers.alpha then
-  E.db.movers.alpha
+  E.db.movers.alpha = 1
 end
 
 E.CreateMover = function(e, p, ...)
